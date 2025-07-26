@@ -70,3 +70,20 @@ def kwfun(**info):
         print(f"{key}: {value}")
 
 kwfun(name="prasad", role="Data Analyst", open_to="Freelance")
+
+
+print("\n")
+# lambda function examples (anonymous function or nameless)
+"""
+A lambda function is a small anonymous function used for short, throwaway tasks — 
+typically just one line.
+syntax :
+lambda arguments: expression"""
+
+# example of lambda function 
+
+print("lambda function")
+
+squares = lambda x : x**2
+
+print(squares(5))
