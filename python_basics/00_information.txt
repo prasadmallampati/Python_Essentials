@@ -21,3 +21,15 @@ single line comments "#"
 multiple line comments """   """
 
 
+print() is function used to print something to console
+
+
+
+input()   read dynamically from user
+
+
+
+
+type()   used for know the type data it is 
+
+
