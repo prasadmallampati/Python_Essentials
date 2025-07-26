@@ -44,7 +44,37 @@ for i in Roll_no:
     
     
 # while loop — it repeats a block of code as long as a condition is true.
+    """
+     while syntax
+     
+     
+     while condition:
+    
+    
+    """
+
+# example 1
 
 
+
+
+
+while True:
+    print("This is will run forever until (Ctrl + C)......")
+
+
+
+
+
+
+
+# example 2
+
+count = 1  
+
+while count>5: # condition 
+    print(count)
+    count+=1  # increment 
+    
 
 
