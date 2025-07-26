@@ -1,4 +1,4 @@
-# A variable is a name that refers to a value in memory.
+# A variable is a like a container_name store the data that refers to a value in memory.
 # You can store and manipulate data using variables.
 
 #  Rules for variable names:

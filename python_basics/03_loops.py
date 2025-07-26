@@ -45,3 +45,6 @@ for i in Roll_no:
     
 # while loop — it repeats a block of code as long as a condition is true.
 
+
+
+
