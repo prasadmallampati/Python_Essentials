@@ -69,4 +69,4 @@ def kwfun(**info):
     for key, value in info.items():
         print(f"{key}: {value}")
 
-kwfun(name="Thirumala", role="Data Analyst", open_to="Freelance")
+kwfun(name="prasad", role="Data Analyst", open_to="Freelance")
