@@ -8,8 +8,8 @@
 
 #  Invalid examples:
 # 2name = "Prasad"     # Starts with number
-# my-name = "She"      # Contains a dash
-# class = "Math"       # 'class' is a keyword
+# my-name = "he"      # Contains a dash
+# class = "python"       # 'class' is a keyword
 
 #  Valid examples
 no = 1                # Integer variable

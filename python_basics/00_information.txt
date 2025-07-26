@@ -1,0 +1,23 @@
+
+
+
+
+
+
+Python is developed by Guido Van Rossum 
+
+
+
+
+1 Easy to learn
+2 huge library 
+3 english like state 
+4 object oriented Language (Abstraction,Encapsulation,Inheritance,Polymorphism)
+
+
+
+single line comments "#"
+
+multiple line comments """   """
+
+
